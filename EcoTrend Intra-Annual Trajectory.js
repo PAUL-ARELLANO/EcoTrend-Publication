@@ -4,7 +4,8 @@
  * =========================================================================================
  * * DESCRIPTION:
  * This script implements the Standardized Composite Trend Index (SCTI) as described in
- * [Your Paper Title/Link]. It integrates multi-sensor data to quantify forest structural 
+ * the manuscript: "Detecting Fine-Scale Forest Decline Using EcoTrend: A Multi-year Optical and Radar
+Remote Sensing Trend-Slope Analysis". It integrates multi-sensor data to quantify forest structural 
  * degradation and recovery at a 10-meter spatial resolution.
  * * METHODOLOGY:
  * 1. DATA HARMONIZATION: 
