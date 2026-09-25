@@ -10,9 +10,10 @@
  * * DESCRIPTION:
  * 
  * This script implements the EcoTrend geospatial framework to monitor forest structural 
- * degradation and physiological stress. It calculates the Standardized Composite Trend 
+ * degradation and physiological stress dexcribed in the manuscript: "Detecting Fine-Scale Forest Decline Using EcoTrend: A Multi-year Optical and Radar
+Remote Sensing Trend-Slope Analysis". It calculates the Standardized Composite Trend 
  * Index (SCTI) by fusing optical (NDVI) and radar (RVI) signals across a user-defined 
- * multi-year period (e.g., 2022-2023 or 2023-2024).
+ * multi-year period (e.g., 2022-2023 or 2023-2024). 
  * 
  * * METHODOLOGICAL WORKFLOW:
  * 
